@@ -28,7 +28,7 @@ flex-direction: column;
 }
 
 .bird{
-    --bird-top: -1000;
+    --bird-top: 000;
     --bird-size: 60px;
     background-color: hsl(50, 75%, 50%);
     position: absolute;
